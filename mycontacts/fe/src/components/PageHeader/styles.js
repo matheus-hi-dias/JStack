@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const Container = styled.div`
-margin-bottom: 24px;
+  margin-bottom: 24px;
   a {
     display: flex;
     align-items: center;
@@ -19,7 +19,7 @@ margin-bottom: 24px;
   }
 
   h1 {
-   font-size : 24px;
+    font-size: 24px;
   }
 `;
 

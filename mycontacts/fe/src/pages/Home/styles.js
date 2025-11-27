@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-  margin-top:32px;
+  margin-top: 32px;
   position: relative;
 `;
 
@@ -18,7 +18,7 @@ export const InputSearchContainer = styled.div`
     padding: 0 16px;
 
     &::placeholder {
-      color: #bcbcbc
+      color: #bcbcbc;
     }
   }
 `;
@@ -109,7 +109,6 @@ export const Card = styled.div`
     display: flex;
     align-items: center;
     a {
-
     }
 
     button {

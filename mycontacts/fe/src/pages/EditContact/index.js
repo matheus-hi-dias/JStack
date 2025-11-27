@@ -7,6 +7,5 @@ export default function EditContact() {
       <PageHeader title="Editar Matheus" />
       <ContactForm buttonLabel="Salvar alterações" />
     </>
-
   );
 }
